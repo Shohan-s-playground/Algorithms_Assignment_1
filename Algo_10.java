@@ -57,36 +57,7 @@ public class Algo_10 {
         
     }while(true);
 
-        
-        
-            
-
-
-
-
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         
     }
     
