@@ -10,6 +10,7 @@ public class Algo_2 {
                 
             }
             System.out.printf("The highest number is : %s\n",nums[i]);
+            break;
         }
 
 
@@ -20,7 +21,7 @@ public class Algo_2 {
                 
             }
             System.out.printf("The lowest number is : %s\n",nums[p]);
-        
+            break;
         }
         
 

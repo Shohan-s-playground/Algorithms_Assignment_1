@@ -7,7 +7,7 @@ public class Algo_1{
         do{System.out.print("Enter a number: ");
             num=scanner.nextInt();
             scanner.nextLine();
-            if(num<0){System.out.println("PLease enter a positive number\n");}
+            if(num<0){System.out.println("Please enter a positive number\n");}
         
         }while(num<0);
         

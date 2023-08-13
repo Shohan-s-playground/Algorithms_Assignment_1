@@ -8,7 +8,7 @@ public class Algo_6 {
         do{
         System.out.println("Enter a text : ");
         input = scanner.nextLine().strip();
-        if (input.isBlank()){System.out.println("PLease enter a non blank text\n");}
+        if (input.isBlank()){System.out.println("Please enter a non blank text\n");}
         }while(input.isBlank());
 
         String [] words = input.split(" ");
